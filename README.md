@@ -159,6 +159,8 @@ A curated list of awesome julia libraries, softwares and tutorials. Inspired by 
         - [Sydney Julia User Group](http://www.meetup.com/Sydney-Julia-User-Group/)
     - [South America](#south-america)
         - [Rio de Janeiro Julia Meetup](http://www.meetup.com/Rio-de-Janeiro-Julia-Meetup/) 
+- [Slack](http://julialang.slack.com/)
+    - [Invite form (Fill out to join)](https://slackinvite.malmaud.com/)
 
 
 
