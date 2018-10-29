@@ -35,9 +35,8 @@ A curated list of awesome julia libraries, softwares and tutorials. Inspired by 
 
 
 ## Calling other Languages 
-
 *Calling other functions of other languages from Julia*
-- [Embedding Julia](http://julia.readthedocs.org/en/latest/manual/embedding/) - Embedding C.
+- [Embedding Julia](https://docs.julialang.org/en/latest/manual/embedding/index.html) - Embedding C.
 - [Objective-C](https://github.com/one-more-minute/ObjectiveC.jl) - Objective-C bridge for Julia.
 - [Python](https://github.com/JuliaLang/pyjulia) - Python bridge for Julia.
 - [Java](http://aviks.github.io/JavaCall.jl/) - Java bridge fo Julia.
