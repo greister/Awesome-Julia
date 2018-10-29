@@ -40,7 +40,7 @@ A curated list of awesome julia libraries, softwares and tutorials. Inspired by 
 - [Embedding Julia](http://julia.readthedocs.org/en/latest/manual/embedding/) - Embedding C.
 - [Objective-C](https://github.com/one-more-minute/ObjectiveC.jl) - Objective-C bridge for Julia.
 - [Python](https://github.com/JuliaLang/pyjulia) - Python bridge for Julia.
-- [Java](http://aviks.github.io/JavaCall.jl/) - Java bridge fo Julia.
+- [Java](http://juliainterop.github.io/JavaCall.jl/) - Java bridge fo Julia.
 
 ## Packages
 
