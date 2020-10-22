@@ -58,7 +58,9 @@ A curated list of awesome julia libraries, softwares and tutorials. Inspired by 
 
 ### Frameworks
 - [Morsel](https://github.com/JuliaWeb/Morsel.jl) -Sinatra like Microframework for Julia.
-- [Factcheck](https://github.com/JuliaLang/FactCheck.jl)- Testing Framework for Julia. 
+- [Factcheck](https://github.com/JuliaLang/FactCheck.jl)- Testing Framework for Julia.
+- [Genie](https://genieframework.com/) - full-stack MVC web framework.
+- [Mux.jl](https://github.com/JuliaWeb/Mux.jl) - define servers in terms of highly modular and composable components.
 
 ### IDE 
 
@@ -71,6 +73,7 @@ A curated list of awesome julia libraries, softwares and tutorials. Inspired by 
 - [IJulia](https://github.com/JuliaLang/IJulia.jl) - Julia Language Backend.
 - [Kate](http://kate-editor.org/get-it/) - InBuilt support for Julia.  Highlighting from [this link](https://github.com/jgm/highlighting-kate) .
 - [Notepad++](https://github.com/JuliaLang/julia/blob/master/contrib/Julia_Notepad%2B%2B.xml) - Support for Notepad++
+- [VS Code](https://github.com/julia-vscode/julia-vscode) - Support for VS Code.
 
 
 ## Learning Julia
